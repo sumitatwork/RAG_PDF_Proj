@@ -1,0 +1,7 @@
+ipykernel
+langchain-community
+pypdf
+langchain-huggingface
+pinecone
+langchain_pinecone
+langchain_google_genai
